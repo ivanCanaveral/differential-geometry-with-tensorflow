@@ -1,2 +1,3 @@
-# gradients
-Playing with gradients and partial derivatives
+# Differential geometry with tensorflow
+
+Playing with geometry and partial derivatives
